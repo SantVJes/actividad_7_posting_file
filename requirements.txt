@@ -1,0 +1,4 @@
+# Actividad 7 - dependencias
+# sqlite3 (escenario C) es parte de la biblioteca estandar: no se lista aqui.
+beautifulsoup4>=4.12
+lxml>=5.0

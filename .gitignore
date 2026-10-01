@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Salidas de la comparativa de escenarios (se regeneran con --comparar)
+output/comparativa/
+
+# Bases SQLite generadas por el escenario C
+*.sqlite
+*.db
+
+# Sistema operativo
+.DS_Store
+__MACOSX/
+Thumbs.db

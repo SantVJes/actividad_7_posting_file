@@ -1,0 +1,11 @@
+ARCHIVO	FRECUENCIA
+004.html	2
+009.html	2
+412.html	4
+444.html	8
+004.html	1
+412.html	1
+004.html	3
+412.html	6
+444.html	2
+009.html	1
